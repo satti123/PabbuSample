@@ -15,6 +15,7 @@ public class LoginTest {
 		System.out.println("my first pgm");
 		String x = driver.getCurrentUrl();
 		System.out.println(x);
+		System.out.println(x);
 		driver.close();
 		driver.quit();
 	
